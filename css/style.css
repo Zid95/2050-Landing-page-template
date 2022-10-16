@@ -1,0 +1,143 @@
+body{  
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    
+}
+
+.active{    
+    color: #6c63ff !important; 
+
+}  
+.nav-link{  
+    font-size:18px;
+    color: black;
+}
+.nav-link:hover{   
+    color: #6c63ff
+}
+
+.mycolor{  
+    color: #6c63ff;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+.banner-text{ 
+    font-size: 60px;
+    font-weight: 700;
+   line-height: 1.2;
+}
+
+.banner_subtitel{  
+    font-size:24px;
+    line-height:1.4;
+    color: #666666;
+}
+
+.banner_btn{  
+   padding: 12px 58px;
+   font-size: 18px;
+   font-weight: 600;
+   border: 1px solid #6c63ff;
+   text-decoration: none;
+   border-radius: 28px;
+   background-color: #6c63ff;
+   color: white;
+
+}
+
+.banner_btn:hover{  
+    background-color: white;
+    color: #6c63ff;
+}
+
+.about_text{  
+    font-size: 48px;  
+}
+
+.about_subtitel{  
+    font-size: 18px;
+}
+.about_img{ 
+    margin-left: -220px;
+}
+.icon-div{ 
+    background-color: #6c63ff;
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+   color: white;
+}
+
+.img_backround{  
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+    text-align: center !important;
+   margin: 20px;
+   
+}
+.img_service{ 
+    margin-left: 120px;
+    margin-top: -116px;
+    
+    
+}
+
+.container_service{   
+    margin-top: 180px;
+}
+.about_img1{ 
+    margin-left: -120px;
+}
+.check_icon{ 
+    font-size: 23px;
+    font-weight: 300;
+    color: #6c63ff;
+}
+.feature_li{  
+    list-style-type: none;
+}
+
+.whychooseus{   
+    
+background-color:#f0f6fb;
+
+}
+
+.product{   
+    box-shadow: 0px 3px 24px 3px rgba(7, 7, 7, 0.04);
+
+
+}
+
+
+.text_product{   
+    text-decoration: none;
+    font-weight: 700;
+    color: #222222;
+}
+
+.svg_f{  
+    background-color: #6c63ff;
+    height: 60px;
+    width: 60px;
+    color: white;
+    border-radius: 75px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.team_section{ 
+   
+}
+.team_images{  
+    justify-content: center;
+    margin-left: 1px;
+}
+h6{color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+
+}
