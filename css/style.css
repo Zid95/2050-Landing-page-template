@@ -141,3 +141,17 @@ h6{color: #222222;
     font-weight: 700;
 
 }
+
+.imgscale{
+    overflow: hidden;
+    width: 370px;
+}
+
+.imgscale img {
+    transition: 1s;
+}
+
+
+.imgscale:hover img{
+    transform: scale(1.2);
+}
